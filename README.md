@@ -15,10 +15,7 @@
 
 ### 🧠 Tech Skills  
 **Languages:** C, C++, Python, JavaScript  
-**Frontend:** HTML, CSS, React, Tailwind CSS  
-**Backend:** Node.js, Express.js  
-**Database:** MongoDB, MySQL  
-**Tools:** Git, GitHub, VS Code, Postman, Figma  
+**Frontend:** HTML, CSS
 
 ---
 
@@ -41,8 +38,8 @@
 
 ### 🌐 Connect with Me  
 <p align="center">
-  <a href="https://linkedin.com/in/jivithesh" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin"/></a>
-  <a href="mailto:jivithesh.dev@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=flat&logo=Gmail"/></a>
+  <a href="linkedin.com/in/jivithesh-a-s-402a4137a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin"/></a>
+  <a href="mailto:jivithesh448@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=flat&logo=Gmail"/></a>
 </p>
 
 ---
