@@ -1,8 +1,3 @@
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,12,12,20,20&height=160&section=header&text=Jivithesh%20A%20S&fontSize=42&fontColor=d0d0d0&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20CSE%20Student%20%7C%20AI%20%26%20Robotics%20Enthusiast&descSize=15&descAlignY=58&animation=fadeIn"/>
-</div>
-
-<br/>
 
 <div align="center">
   <a href="https://linkedin.com/in/jivithesh-a-s-402a4137a/">
@@ -23,7 +18,9 @@
 <br/>
 
 ---
-
+```
+  JIVITHESH A S
+```
 ```
   B U I L D I N G   W I T H   P U R P O S E   —   L E A R N I N G   W I T H   D I S C I P L I N E
 ```
