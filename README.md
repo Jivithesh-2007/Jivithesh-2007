@@ -1,199 +1,210 @@
+# <div align="center">JIVITHESH A S</div>
 
 <div align="center">
-  <a href="https://linkedin.com/in/jivithesh-a-s-402a4137a/">
-    <img src="https://img.shields.io/badge/LinkedIn-0a0a0a?style=flat-square&logo=linkedin&logoColor=5a5a5a"/>
-  </a>
-  &nbsp;
-  <a href="mailto:jivithesh448@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-0a0a0a?style=flat-square&logo=gmail&logoColor=5a5a5a"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/Jivithesh-2007">
-    <img src="https://img.shields.io/badge/GitHub-0a0a0a?style=flat-square&logo=github&logoColor=5a5a5a"/>
-  </a>
-  &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=Jivithesh-2007&style=flat-square&color=1a1a1a&labelColor=0a0a0a&label=profile+views"/>
+  <p><strong>Full Stack Developer | AI & Robotics Enthusiast | Open Source Contributor</strong></p>
+  <p><em>Building production-grade applications with discipline and precision</em></p>
 </div>
 
-<br/>
+<div align="center">
+  
+  [<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/jivithesh-a-s-402a4137a/)
+  [<img alt="GitHub" src="https://img.shields.io/badge/GitHub-1F2937?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/Jivithesh-2007)
+  [<img alt="Email" src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:jivithesh448@gmail.com)
+  
+</div>
 
 ---
+
+## 💼 Professional Overview
+
 ```
-  JIVITHESH A S
-```
-```
-  B U I L D I N G   W I T H   P U R P O S E   —   L E A R N I N G   W I T H   D I S C I P L I N E
+Full Stack Developer (MERN) | B.Tech CSE | Karunya Institute of Technology and Sciences
+Internship: Codec Technologies | Location: India
 ```
 
----
+### 🎯 Core Focus Areas
+- **Full-Stack Development**: Production-grade MERN applications with enterprise patterns
+- **Backend Architecture**: REST APIs, microservices, authentication & authorization
+- **AI & Edge Computing**: Model optimization, edge inference, deployment pipelines
+- **Computer Vision**: Real-time detection, OpenCV pipelines, robotics integration
+- **Open Source**: Active contributor to community-driven projects
 
-## Index
-
-[About](#about) · [Tech Stack](#tech-stack) · [GitHub Stats](#github-stats) · [Projects](#projects) · [Connect](#connect)
-
----
-
-## About
-
-```yaml
-name        : Jivithesh A S
-role        : Full Stack Developer (MERN)
-institution : Karunya Institute of Technology and Sciences
-degree      : B.Tech, Computer Science Engineering
-internship  : Codec Technologies
-location    : India
-
-focus:
-  - Building production-grade web applications
-  - Backend systems, REST APIs, authentication flows
-  - AI, Edge Computing, Robotics and Computer Vision
-  - Open-source contribution and community building
-
-philosophy  : "Discipline and consistency compound into mastery."
-```
+### 💡 Philosophy
+> *"Discipline and consistency compound into mastery."*
 
 ---
 
-## Tech Stack
+## 🛠️ Technology Stack
 
-**Languages**
-
-![C](https://img.shields.io/badge/C-0a0a0a?style=flat-square&logo=c&logoColor=555555)
-![C++](https://img.shields.io/badge/C++-0a0a0a?style=flat-square&logo=cplusplus&logoColor=555555)
-![Python](https://img.shields.io/badge/Python-0a0a0a?style=flat-square&logo=python&logoColor=555555)
-![JavaScript](https://img.shields.io/badge/JavaScript-0a0a0a?style=flat-square&logo=javascript&logoColor=555555)
-
-**Frontend**
-
-![HTML5](https://img.shields.io/badge/HTML5-0a0a0a?style=flat-square&logo=html5&logoColor=555555)
-![CSS3](https://img.shields.io/badge/CSS3-0a0a0a?style=flat-square&logo=css3&logoColor=555555)
-![React](https://img.shields.io/badge/React-0a0a0a?style=flat-square&logo=react&logoColor=555555)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-0a0a0a?style=flat-square&logo=tailwindcss&logoColor=555555)
-
-**Backend**
-
-![Node.js](https://img.shields.io/badge/Node.js-0a0a0a?style=flat-square&logo=nodedotjs&logoColor=555555)
-![Express.js](https://img.shields.io/badge/Express-0a0a0a?style=flat-square&logo=express&logoColor=555555)
-![MongoDB](https://img.shields.io/badge/MongoDB-0a0a0a?style=flat-square&logo=mongodb&logoColor=555555)
-![REST API](https://img.shields.io/badge/REST_API-0a0a0a?style=flat-square&logo=postman&logoColor=555555)
-
-**DevOps and Tools**
-
-![Git](https://img.shields.io/badge/Git-0a0a0a?style=flat-square&logo=git&logoColor=555555)
-![GitHub](https://img.shields.io/badge/GitHub-0a0a0a?style=flat-square&logo=github&logoColor=555555)
-![VS Code](https://img.shields.io/badge/VS_Code-0a0a0a?style=flat-square&logo=visualstudiocode&logoColor=555555)
-![Linux](https://img.shields.io/badge/Linux-0a0a0a?style=flat-square&logo=linux&logoColor=555555)
-![Postman](https://img.shields.io/badge/Postman-0a0a0a?style=flat-square&logo=postman&logoColor=555555)
-
-**Exploring**
-
-![OpenCV](https://img.shields.io/badge/OpenCV-0a0a0a?style=flat-square&logo=opencv&logoColor=555555)
-![ROS](https://img.shields.io/badge/ROS-0a0a0a?style=flat-square&logo=ros&logoColor=555555)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-0a0a0a?style=flat-square&logo=tensorflow&logoColor=555555)
-![Docker](https://img.shields.io/badge/Docker-0a0a0a?style=flat-square&logo=docker&logoColor=555555)
-
----
-
-## GitHub Stats
-
+### Languages
 <div align="center">
-
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Jivithesh-2007&show_icons=true&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=707070&icon_color=505050&text_color=777777&count_private=true&include_all_commits=true" />
-
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Jivithesh-2007&theme=dark&hide_border=true&background=0d0d0d&stroke=2a2a2a&ring=444444&fire=666666&currStreakLabel=707070&sideLabels=606060&dates=444444&currStreakNum=a0a0a0&sideNums=a0a0a0" />
-
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
 </div>
 
+### Frontend Development
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jivithesh-2007&layout=compact&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=707070&text_color=777777&langs_count=10" />
-
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jivithesh-2007&layout=donut&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=707070&text_color=777777&langs_count=6" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/HTML5-E34C26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
 </div>
 
+### Backend & Databases
 <div align="center">
-  <img width="99%" src="https://github-readme-activity-graph.vercel.app/graph?username=Jivithesh-2007&bg_color=0d0d0d&color=666666&line=333333&point=777777&area=true&area_color=222222&hide_border=true&custom_title=Contribution+Activity" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/MongoDB-13AA52?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/REST_API-FF6B6B?style=flat-square&logo=postman&logoColor=white" alt="REST API" />
 </div>
 
+### DevOps & Tools
 <div align="center">
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jivithesh-2007&theme=github_dark" />
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jivithesh-2007&theme=github_dark" />
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jivithesh-2007&theme=github_dark&utcOffset=5.30" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code" />
 </div>
 
+### AI & Advanced Technologies
 <div align="center">
-  <img width="99%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jivithesh-2007&theme=github_dark" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" />
+  <img src="https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ros&logoColor=white" alt="ROS" />
 </div>
 
 ---
 
-## Achievements
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Jivithesh-2007&theme=onedark&no-frame=true&column=7&margin-w=8&margin-h=8&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jivithesh-2007&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=79C0FF&text_color=8B949E&count_private=true&include_all_commits=true&cache_seconds=1800" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Jivithesh-2007&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=30363D&ring=58A6FF&fire=79C0FF&currStreakLabel=58A6FF&sideLabels=8B949E&dates=30363D&currStreakNum=79C0FF&sideNums=8B949E" alt="Contribution Streak" />
+</div>
+
+<div align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jivithesh-2007&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E&langs_count=10" alt="Top Languages" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jivithesh-2007&layout=donut&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E&langs_count=6" alt="Language Distribution" />
+</div>
+
+<div align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Jivithesh-2007&bg_color=0D1117&color=58A6FF&line=30363D&point=79C0FF&area=true&area_color=1F6FEB&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph" />
 </div>
 
 ---
 
-## Contribution Journey
+## 🏆 Achievements & Recognition
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Jivithesh-2007&theme=github_dark&no-frame=true&column=7&margin-w=10&margin-h=10&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Trophies" />
 </div>
 
 ---
 
-## Current Focus
+## 📂 Current Development Focus
 
-| Area | Status | Details |
-|---|---|---|
-| MERN Stack | Active | Advanced patterns, state management, microservices |
-| AI and Edge Computing | Exploring | Edge inference, optimized deployment pipelines |
-| Computer Vision | Learning | OpenCV, real-time detection systems |
-| Open Source | Ongoing | Contributions across community projects |
-| Robotics | Building | ROS-based autonomous navigation |
+| Area | Status | Focus |
+|------|--------|-------|
+| **MERN Stack** | 🔴 Active | Advanced patterns, state management, microservices architecture |
+| **AI & Edge Computing** | 🟡 Exploring | Edge inference optimization, deployment pipelines, model compression |
+| **Computer Vision** | 🟡 Learning | Real-time detection systems, OpenCV pipelines, sensor integration |
+| **Robotics** | 🟢 Building | ROS-based autonomous navigation, motion planning, autonomous systems |
+| **Open Source** | 🔴 Ongoing | Contributing to community projects, collaborative development |
 
----
-
-## Projects
-
-> Explore my repositories for full source code and documentation.
-
-**Web Applications**
-- Full-stack MERN applications with JWT authentication and role-based access control
-- RESTful API design with validation, error handling, and structured documentation
-- Responsive frontends built with React and modern CSS methodologies
-
-**AI and Vision**
-- Computer vision prototypes using OpenCV and Python pipelines
-- Machine learning model integration within web-based applications
-- Robotics automation scripts with real-time sensor data processing
+**Status Legend**: 🔴 Active | 🟡 Learning | 🟢 Building
 
 ---
 
-## Open to Opportunities
+## 🚀 Project Highlights
 
-Available for internships, collaborations, and project work — especially at the intersection of full-stack development and AI/robotics. If you are building something interesting, reach out.
+### Web Applications
+- **Full-Stack MERN Applications**
+  - JWT authentication with role-based access control (RBAC)
+  - State management with Redux/Context API
+  - Real-time features with WebSockets
+  - Production-grade error handling and validation
+
+- **RESTful API Architecture**
+  - Comprehensive endpoint documentation
+  - Request/response validation layers
+  - Structured error handling and logging
+  - Database optimization and indexing
+
+- **Responsive Frontend Design**
+  - Mobile-first approach with React
+  - Tailwind CSS for modern styling
+  - Accessibility compliance (WCAG)
+  - Performance optimization (lazy loading, code splitting)
+
+### AI & Machine Learning
+- **Computer Vision Systems**
+  - Real-time object detection and tracking
+  - OpenCV pipeline integration
+  - Model optimization for edge devices
+  - Performance benchmarking and analysis
+
+- **Machine Learning Integration**
+  - Model deployment in web applications
+  - TensorFlow integration and inference
+  - End-to-end ML pipeline development
+  - Model evaluation and metrics tracking
+
+### Robotics & Automation
+- **Autonomous Systems**
+  - ROS-based navigation stack
+  - Real-time sensor data processing
+  - Path planning and obstacle avoidance
+  - Multi-robot coordination systems
+
+---
+
+## 🎓 Education & Experience
+
+**Karunya Institute of Technology and Sciences**
+- Degree: B.Tech Computer Science Engineering
+- Specialization: Full Stack Development & AI Systems
+- Graduation: 2025
+
+**Codec Technologies**
+- Position: Internship
+- Focus: Full-stack development, API design, production systems
+
+---
+
+## 🤝 Open to Collaboration
+
+I'm actively seeking opportunities in:
+- Full-stack development projects (MERN stack)
+- AI/ML model deployment and optimization
+- Robotics and autonomous systems
+- Open-source contributions
+- Internships and long-term collaborations
+
+**Let's build something meaningful together!**
 
 <div align="center">
 
-  <a href="https://linkedin.com/in/jivithesh-a-s-402a4137a/">
-    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=606060&labelColor=0a0a0a"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:jivithesh448@gmail.com">
-    <img src="https://img.shields.io/badge/Send_an_Email-0a0a0a?style=for-the-badge&logo=gmail&logoColor=606060&labelColor=0a0a0a"/>
-  </a>
+### 📬 Get in Touch
+
+[<img alt="LinkedIn" src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/jivithesh-a-s-402a4137a/)
+[<img alt="GitHub" src="https://img.shields.io/badge/View_GitHub_Profile-181717?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/Jivithesh-2007)
+[<img alt="Email" src="https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:jivithesh448@gmail.com)
 
 </div>
 
-<br/>
+---
+
+<div align="center">
+  <p><strong>Jivithesh A S</strong></p>
+  <p>Karunya Institute of Technology and Sciences • 2025</p>
+  <p><em>Building with Purpose • Learning with Discipline</em></p>
+</div>
 
 ---
 
 <div align="center">
-  <sub>Jivithesh A S &nbsp;·&nbsp; Karunya Institute of Technology and Sciences &nbsp;·&nbsp; 2025</sub>
-</div>
-
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,12,12,20,20&height=80&section=footer&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1F6FEB,0D1117&height=100&section=footer&animation=fadeIn&reversal=true" width="100%" alt="Footer Wave" />
 </div>
