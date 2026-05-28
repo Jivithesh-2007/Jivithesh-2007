@@ -143,27 +143,68 @@ Internship: Codec Technologies | India
 
 ---
 
-## GitHub Analytics
+## GitHub Command Center
 
 <div align="center">
+
+  <img src="https://img.shields.io/badge/GitHub_Stats-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Stats" />
+  <img src="https://img.shields.io/badge/Contribution_Streak-FF6B00?style=for-the-badge&logo=git&logoColor=white" alt="Contribution Streak" />
+  <img src="https://img.shields.io/badge/Top_Languages-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Top Languages" />
+  <img src="https://img.shields.io/badge/Activity_Graph-22C55E?style=for-the-badge&logo=githubactions&logoColor=white" alt="Contribution Graph" />
+
+  <br />
+  <br />
+
+  <img src="https://komarev.com/ghpvc/?username=Jivithesh-2007&style=for-the-badge&color=0D1117&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Jivithesh-2007?style=for-the-badge&logo=github&label=Followers&color=0D1117" alt="GitHub Followers" />
+  <img src="https://img.shields.io/badge/Public_Profile-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF" alt="Public GitHub Profile" />
+
+</div>
+
+### Performance Snapshot
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Stats-0D1117?style=flat-square&logo=github&logoColor=58A6FF" alt="Stats Label" />
+  <img src="https://img.shields.io/badge/Streak-0D1117?style=flat-square&logo=git&logoColor=79C0FF" alt="Streak Label" />
+  <br />
+  <br />
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jivithesh-2007&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=79C0FF&text_color=8B949E&count_private=true&include_all_commits=true&cache_seconds=1800" alt="GitHub Stats" />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Jivithesh-2007&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=30363D&ring=58A6FF&fire=79C0FF&currStreakLabel=58A6FF&sideLabels=8B949E&dates=30363D&currStreakNum=79C0FF&sideNums=8B949E" alt="Contribution Streak" />
 </div>
 
+### Language Intelligence
+
 <div align="center">
+  <img src="https://img.shields.io/badge/Top_Languages-0D1117?style=flat-square&logo=codeforces&logoColor=58A6FF" alt="Top Languages Label" />
+  <img src="https://img.shields.io/badge/Distribution-0D1117?style=flat-square&logo=chartdotjs&logoColor=79C0FF" alt="Language Distribution Label" />
+  <br />
+  <br />
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jivithesh-2007&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E&langs_count=10" alt="Top Languages" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jivithesh-2007&layout=donut&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E&langs_count=6" alt="Language Distribution" />
 </div>
 
+### Contribution Graph
+
 <div align="center">
+  <img src="https://img.shields.io/badge/Contribution_Graph-0D1117?style=flat-square&logo=githubactions&logoColor=58A6FF" alt="Contribution Graph Label" />
+  <br />
+  <br />
   <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Jivithesh-2007&bg_color=0D1117&color=58A6FF&line=30363D&point=79C0FF&area=true&area_color=1F6FEB&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph" />
 </div>
 
 ---
 
-## Recognition
+## Recognition & Milestones
 
 <div align="center">
+
+  <img src="https://img.shields.io/badge/GitHub_Trophies-0D1117?style=for-the-badge&logo=github&logoColor=FFD700" alt="GitHub Trophies" />
+  <img src="https://img.shields.io/badge/Open_Source-0D1117?style=for-the-badge&logo=opensourceinitiative&logoColor=3DA639" alt="Open Source" />
+  <img src="https://img.shields.io/badge/Continuous_Learning-0D1117?style=for-the-badge&logo=readthedocs&logoColor=58A6FF" alt="Continuous Learning" />
+
+  <br />
+  <br />
+
   <img src="https://github-profile-trophy.vercel.app/?username=Jivithesh-2007&theme=github_dark&no-frame=true&column=7&margin-w=10&margin-h=10&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Trophies" />
 </div>
 
