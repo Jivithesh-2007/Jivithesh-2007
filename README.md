@@ -1,7 +1,3 @@
-<!-- HEADER BANNER -->
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:05001A,30:1A0050,60:1F6FEB,100:05001A&height=280&section=header&text=Jivithesh%20A%20S&fontColor=00FFFF&fontSize=62&fontAlignY=40&animation=fadeIn&desc=Full%20Stack%20Developer%20%E2%80%A2%20AI%20%26%20Robotics%20Enthusiast%20%E2%80%A2%20Open%20Source%20Contributor&descSize=18&descAlignY=58&descColor=B57BFF" alt="Header Banner" />
-</div>
 
 <!-- ANIMATED TYPING ROLE BAR -->
 <div align="center">
