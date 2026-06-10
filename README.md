@@ -1,158 +1,266 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=900&height=60&lines=Welcome+to+my+GitHub+Profile!;Full+Stack+Developer+%E2%80%A2+MERN+Stack;AI+%26+Edge+Computing+Explorer;Computer+Vision+%7C+Robotics+%7C+Automation" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=900&height=70&lines=JIVITHESH+A+S;Full+Stack+Developer+%7C+MERN+Stack;AI+%26+Edge+Computing+Explorer;Computer+Vision+%7C+Robotics+%7C+Automation" alt="Typing SVG" />
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:05001A,50:00CFFF,100:05001A&height=3" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:00FF00,100:000000&height=4&animation=fadeIn" />
+
+---
 
 <div align="center">
-  <br />
+  <h3 style="color: #00FF00; font-family: JetBrains Mono;">PROFESSIONAL PROFILE</h3>
   
   <a href="https://linkedin.com/in/jivithesh-a-s-402a4137a/">
-    <img src="https://img.shields.io/badge/Jivithesh%20A%20S-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=05001A" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Jivithesh%20A%20S-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=000000" alt="LinkedIn" />
   </a>
   
   <a href="https://github.com/Jivithesh-2007">
-    <img src="https://img.shields.io/badge/Jivithesh--2007-00FFFF?style=for-the-badge&logo=github&logoColor=05001A&labelColor=1A0050" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-Jivithesh--2007-00FF00?style=flat-square&logo=github&logoColor=000000&labelColor=000000" alt="GitHub" />
   </a>
   
   <a href="mailto:jivithesh448@gmail.com">
-    <img src="https://img.shields.io/badge/jivithesh448@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=05001A" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-jivithesh448@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white&labelColor=000000" alt="Email" />
   </a>
+
+  <br />
   
-  <img src="https://komarev.com/ghpvc/?username=Jivithesh-2007&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS&labelColor=05001A" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/Location-India-00FF00?style=flat-square&labelColor=000000" alt="Location" />
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-00CC00?style=flat-square&labelColor=000000" alt="Status" />
   
-  <img src="https://img.shields.io/badge/India-00CFFF?style=for-the-badge&labelColor=05001A" alt="India" />
-  
-  <br /><br />
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:05001A,50:7C3AED,100:05001A&height=3" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:00AA00,100:000000&height=2" />
+
+---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:05001A,100:1A0050&height=50&text=ABOUT+ME&fontColor=00FFFF&fontSize=20&fontAlignY=65&animation=twinkling" alt="About Me" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00FF00&height=100&text=ABOUT+ME&fontColor=000000&fontSize=24&fontAlignY=75&animation=fadeIn" alt="About Me" />
 </div>
 
-<br />
+<br/>
 
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-**Jivithesh A S**  
-**Full Stack Developer**  
-B.Tech Computer Science and Engineering (2025)  
-Karunya Institute of Technology and Sciences  
+**Jivithesh A S**
 
-**Location:** India  
+Full Stack Developer and Technology Enthusiast
 
-**Primary Stack:** MongoDB • Express • React • Node.js  
+**ACADEMIC BACKGROUND**
+- B.Tech Computer Science and Engineering (2025)
+- Karunya Institute of Technology and Sciences
+- Based in India
 
-**Interests:** Artificial Intelligence • Edge Computing • Computer Vision • Robotics • Automation  
+**CURRENT POSITION**
+- Full Stack Development Intern
+- Codec Technologies
 
-**Current Role:** Full Stack Development Intern at Codec Technologies
+**CORE EXPERTISE**
+- MongoDB, Express, React, Node.js (MERN)
+- Backend Architecture and System Design
+- Full Stack Development
 
-I build clean, scalable, and production-ready applications with a strong emphasis on backend architecture, system design, and intelligent systems. My focus is on writing maintainable code and delivering reliable software solutions.
+**RESEARCH INTERESTS**
+- Artificial Intelligence
+- Edge Computing
+- Computer Vision
+- Robotics Systems
+- Industrial Automation
 
-> "Discipline and consistency compound into mastery."
+**PHILOSOPHY**
+
+Discipline and consistency compound into mastery. I focus on building clean, scalable, and production-ready applications with strong emphasis on backend architecture, system design, and intelligent systems. My priority is writing maintainable code and delivering reliable software solutions.
 
 </td>
 <td width="50%" valign="top" align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jivithesh-2007&show_icons=true&theme=tokyonight&hide_border=true&title_color=00FFFF&icon_color=B57BFF&text_color=00CFFF&bg_color=05001A&count_private=true&include_all_commits=true&border_radius=12" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Jivithesh-2007&show_icons=true&theme=dark&hide_border=false&title_color=00FF00&icon_color=00FF00&text_color=00FF00&bg_color=000000&count_private=true&include_all_commits=true&border_color=00FF00&border_radius=8&card_width=350" width="100%" />
   <br /><br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jivithesh-2007&theme=tokyonight&hide_border=true&stroke=1A0050&ring=00FFFF&fire=B57BFF&currStreakLabel=00FFFF&sideLabels=00CFFF&dates=7C3AED&background=05001A&border_radius=12" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jivithesh-2007&theme=dark&hide_border=false&stroke=000000&ring=00FF00&fire=00FF00&currStreakLabel=00FF00&sideLabels=00FF00&dates=00AA00&background=000000&border_radius=8" width="100%" />
 </td>
 </tr>
 </table>
 
-<br />
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:05001A,50:00CFFF,100:05001A&height=3" />
+---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:05001A,100:1A0050&height=50&text=TECHNICAL+ARSENAL&fontColor=00FFFF&fontSize=20&fontAlignY=65&animation=twinkling" alt="Skills" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00FF00&height=100&text=TECHNICAL+ARSENAL&fontColor=000000&fontSize=24&fontAlignY=75&animation=fadeIn" alt="Skills" />
 </div>
 
-<br />
+<br/>
 
-### Languages & Core Technologies
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white&labelColor=05001A)
-![C++](https://img.shields.io/badge/C++-00427E?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=05001A)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B&labelColor=05001A)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=05001A)
+### PROGRAMMING LANGUAGES
 
-### Frontend
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=05001A)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=05001A)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white&labelColor=000000)
+![C++](https://img.shields.io/badge/C++-00427E?style=flat-square&logo=cplusplus&logoColor=white&labelColor=000000)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=FFD43B&labelColor=000000)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000&labelColor=000000)
 
-### Backend & Database
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=05001A)
-![Express.js](https://img.shields.io/badge/Express.js-FFFFFF?style=for-the-badge&logo=express&logoColor=black&labelColor=05001A)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=05001A)
+### FRONTEND TECHNOLOGIES
 
-### AI, Vision & Robotics
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=05001A)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white&labelColor=05001A)
-![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white&labelColor=05001A)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000000&labelColor=000000)
+![Tailwind_CSS](https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=flat-square&logo=tailwindcss&logoColor=white&labelColor=000000)
+![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=flat-square&logo=html5&logoColor=white&labelColor=000000)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white&labelColor=000000)
 
-### Tools & DevOps
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=05001A)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=05001A)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=05001A)
+### BACKEND AND DATABASE
 
-<br />
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white&labelColor=000000)
+![Express.js](https://img.shields.io/badge/Express.js-FFFFFF?style=flat-square&logo=express&logoColor=000000&labelColor=000000)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white&labelColor=000000)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white&labelColor=000000)
 
-**Proficiency**
+### ARTIFICIAL INTELLIGENCE AND COMPUTER VISION
 
-| Domain                    | Level     |
-|--------------------------|-----------|
-| Full Stack Development   | Advanced  |
-| Backend Architecture     | Advanced  |
-| AI & Computer Vision     | Intermediate |
-| Robotics & ROS           | Intermediate |
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white&labelColor=000000)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white&labelColor=000000)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white&labelColor=000000)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white&labelColor=000000)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white&labelColor=000000)
 
-<br />
+### ROBOTICS AND AUTOMATION
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:05001A,50:7C3AED,100:05001A&height=3" />
+![ROS](https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ros&logoColor=white&labelColor=000000)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white&labelColor=000000)
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:05001A,100:1A0050&height=50&text=CURRENT+FOCUS&fontColor=00FFFF&fontSize=20&fontAlignY=65&animation=twinkling" alt="Current Focus" />
-</div>
+### DEVELOPMENT TOOLS AND PLATFORMS
 
-<br />
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white&labelColor=000000)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white&labelColor=000000)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=000000&labelColor=000000)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white&labelColor=000000)
+![VS_Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white&labelColor=000000)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white&labelColor=000000)
 
-**MERN Stack** • **AI & Edge Computing** • **Robotics Systems**
+<br/>
 
-<br />
+### EXPERTISE MATRIX
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:05001A,50:00CFFF,100:05001A&height=3" />
+<table width="100%" align="center">
+<tr>
+<td align="center" width="33%">
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:05001A,100:1A0050&height=50&text=GITHUB+ANALYTICS&fontColor=00FFFF&fontSize=20&fontAlignY=65&animation=twinkling" alt="Analytics" />
-</div>
+**Full Stack Development**
 
-<br />
+Advanced
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jivithesh-2007&show_icons=true&theme=tokyonight&hide_border=true&title_color=00FFFF&icon_color=B57BFF&text_color=00CFFF&bg_color=05001A&count_private=true&include_all_commits=true&border_radius=12" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jivithesh-2007&theme=tokyonight&hide_border=true&stroke=1A0050&ring=00FFFF&fire=B57BFF&currStreakLabel=00FFFF&sideLabels=00CFFF&dates=7C3AED&background=05001A&border_radius=12" width="48%" />
-</div>
+</td>
+<td align="center" width="33%">
 
-<br />
+**Backend Architecture**
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:05001A,50:7C3AED,100:05001A&height=3" />
+Advanced
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:05001A,100:1A0050&height=50&text=LET'S+CONNECT&fontColor=00FFFF&fontSize=20&fontAlignY=65&animation=twinkling" alt="Connect" />
-</div>
+</td>
+<td align="center" width="33%">
 
-<br />
+**System Design**
 
-I'm open to **collaborations**, **internships**, and **open-source contributions**.
+Advanced
 
-Feel free to reach out if you're working on interesting projects in **MERN**, **AI**, **Computer Vision**, or **Robotics**.
+</td>
+</tr>
+<tr>
+<td align="center" width="33%">
+
+**AI and Computer Vision**
+
+Intermediate
+
+</td>
+<td align="center" width="33%">
+
+**Robotics Systems**
+
+Intermediate
+
+</td>
+<td align="center" width="33%">
+
+**DevOps and Deployment**
+
+Intermediate
+
+</td>
+</tr>
+</table>
 
 ---
 
-**Jivithesh A S**  
-Full Stack Developer | AI & Robotics Enthusiast  
-Graduating 2025 | Based in India
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00FF00&height=100&text=CURRENT+FOCUS&fontColor=000000&fontSize=24&fontAlignY=75&animation=fadeIn" alt="Focus" />
+</div>
+
+<br/>
+
+<div align="center">
+  <h3>MERN Stack Development</h3>
+  <p>Building scalable web applications with modern JavaScript</p>
+  
+  <h3>AI and Edge Computing</h3>
+  <p>Implementing intelligent systems for resource-constrained environments</p>
+  
+  <h3>Robotics Systems</h3>
+  <p>Developing autonomous systems with computer vision and control algorithms</p>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00FF00&height=100&text=GITHUB+ANALYTICS&fontColor=000000&fontSize=24&fontAlignY=75&animation=fadeIn" alt="Analytics" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jivithesh-2007&layout=compact&theme=dark&hide_border=false&title_color=00FF00&text_color=00FF00&bg_color=000000&border_color=00FF00&border_radius=8" width="100%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jivithesh-2007&theme=github&custom_title=Contribution%20Graph&title_color=00FF00&bg_color=000000&color=00FF00&line=00CC00&point=00FF00&area_color=1A1A1A&border_radius=8" width="100%" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00FF00&height=100&text=PROFESSIONAL+ENGAGEMENT&fontColor=000000&fontSize=24&fontAlignY=75&animation=fadeIn" alt="Engagement" />
+</div>
+
+<br/>
+
+<div align="center">
+
+**Available for Collaboration and Opportunities**
+
+I am actively seeking opportunities in:
+
+- Full Stack Development Projects
+- AI and Machine Learning Initiatives
+- Computer Vision Applications
+- Robotics and Automation Systems
+- Open Source Contributions
+
+**Let's Connect**
+
+If you are working on innovative projects involving MERN stack, artificial intelligence, computer vision, or robotics, I would be interested in discussing potential collaborations.
+
+Contact me via email or connect on LinkedIn to explore opportunities.
+
+</div>
+
+---
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:00FF00,100:000000&height=4&animation=fadeIn" />
+
+<div align="center">
+
+**Jivithesh A S**
+
+Full Stack Developer | AI and Robotics Enthusiast
+
+Graduating 2025 | India
+
+Last Updated: 2025
+
+</div>
